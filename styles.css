@@ -25,6 +25,7 @@ p {
 	border: none;
 	box-shadow: var(--light-gray) 0 0 5px 5px;
 	margin-top: 100px;
+	margin-bottom: 100px;
 }
 .component-top-container {
 	background-color: white;
